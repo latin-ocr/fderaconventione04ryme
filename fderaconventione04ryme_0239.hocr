@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fderaconventione04ryme/fderaconventione04ryme_0239.png"; bbox 0 0 2562 4274; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 175 1074 2325 1539">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 175 1074 2325 1539">
+     <span class='ocr_line' id='line_1_1' title="bbox 175 1074 2325 1278; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 175 1074 344 1278; x_wconf 84' lang='lat' dir='ltr'><strong>F</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 458 1074 840 1272; x_wconf 84' lang='lat' dir='ltr'>OE</span> <span class='ocrx_word' id='word_1_3' title='bbox 975 1077 1189 1275; x_wconf 94' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_4' title='bbox 1325 1075 1506 1272; x_wconf 82' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_5' title='bbox 1646 1078 1844 1278; x_wconf 92' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1987 1079 2325 1277; x_wconf 68' lang='lat' dir='ltr'>A,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 477 1314 2174 1539; baseline 0.006 -12"><span class='ocrx_word' id='word_1_7' title='bbox 477 1314 1570 1535; x_wconf 41' lang='lat' dir='ltr'>CONVENTIOffiEs‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1612 1445 2174 1539; x_wconf 74' lang='lat' dir='ltr'>LITERAE,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 838 1703 1801 1814">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 838 1703 1801 1814">
+     <span class='ocr_line' id='line_1_3' title="bbox 838 1703 1801 1814; baseline -0.003 -29"><span class='ocrx_word' id='word_1_9' title='bbox 838 1703 943 1785; x_wconf 83' lang='lat' dir='ltr'>Et</span> <span class='ocrx_word' id='word_1_10' title='bbox 996 1703 1489 1813; x_wconf 77' lang='lat' dir='ltr'><strong>cujuscunque</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1520 1706 1801 1814; x_wconf 79' lang='lat' dir='ltr'><strong>generis</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 1981 2370 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 1981 2370 2148">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 1981 2370 2148; baseline 0.001 -5"><span class='ocrx_word' id='word_1_12' title='bbox 171 1981 892 2145; x_wconf 80' lang='lat' dir='ltr'><strong>ACTA</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1102 1983 2370 2148; x_wconf 74' lang='lat' dir='ltr'><strong>PUBLICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 572 2316 1934 2386">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 572 2316 1934 2386">
+     <span class='ocr_line' id='line_1_5' title="bbox 572 2316 1934 2386; baseline -0.001 0"><span class='ocrx_word' id='word_1_14' title='bbox 572 2316 940 2386; x_wconf 78' lang='lat' dir='ltr'><em>TOMJ</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1063 2318 1181 2385; x_wconf 84' lang='lat' dir='ltr'>JV.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1331 2321 1722 2386; x_wconf 74' lang='lat' dir='ltr'><em>PARS</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1843 2318 1934 2384; x_wconf 86' lang='lat' dir='ltr'>Il.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
